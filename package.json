@@ -3,12 +3,14 @@
 	"displayName": "Robot Framework Formatter",
 	"description": "VSCode extension for format Robot Framework files.",
 	"publisher": "tumit",
+	"license": "MIT",
+	"icon": "icon.png",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.39.0"
 	},
 	"categories": [
-		"Other"
+		"Formatters"
 	],
 	"activationEvents": [
 		"onLanguage:robot"
